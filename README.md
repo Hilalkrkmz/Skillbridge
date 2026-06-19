@@ -67,7 +67,6 @@ A Spring Boot web application that connects employers and job seekers for freela
 
 ![s_b](sk1.png)
 ![s_b](sk2.png)
-![s_b](sk3.png)
 ![s_b](sk4.png)
 
 
