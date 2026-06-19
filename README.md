@@ -63,6 +63,15 @@ A Spring Boot web application that connects employers and job seekers for freela
 - Register as an **APPLICANT** to browse jobs and apply
 - After registering, log in and navigate using the navbar
 
+## Screenshot
+
+![s_b](sc1.png)
+![s_b](sc2.png)
+![s_b](sc3.png)
+
+
+
+
 ## Project Structure
 src/main/java/com/example/skillbridge/
 
